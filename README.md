@@ -20,11 +20,13 @@ Simultaneous_minimisation.py
 <b> Highlight results </b>
 
 ![contours](https://github.com/jakobtorben/Computational-Physics/blob/main/Figures/contour.png?raw=true)
+
 Contour plot that shows the path of the simulated annealing method
 in two dimensions, in it’s search for the global minimum. The two minima
 are indistinguishable in the probability and have similar NLL values.
 
 ![3d parameters](https://github.com/jakobtorben/Computational-Physics/blob/main/Figures/three_dim.png?raw=true)
+
 An updated best fit of the oscillation prediction where the cross-section
 interaction has been included. The parameters are estimated using simulated
 annealing for theta_(23), delta m_(sq) and simga_(cs) with 5000 cycles and 10 trials each. The
