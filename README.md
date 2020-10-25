@@ -1,5 +1,5 @@
 # Computational-Physics
-Extracting Neutrino Oscillation Parameters from a Log-Likelihood fit
+<b> Extracting Neutrino Oscillation Parameters from a Log-Likelihood fit </b>
 
 Each file concerns different methods of minimising. To see the minimisation for the particular method, open the respective file and run. The extraction of the data to fit requires an internet connection as it requests teh file directly from the website. All variables and functions are defined and ran at the bottom of the script.
 
